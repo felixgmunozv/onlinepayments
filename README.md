@@ -5,6 +5,8 @@ Ejercicio de sistema de pago en linea
 #Post Save
 http://localhost:8080/onlinepayments/api/bill/
 {
+
+
     "idUser": 1,
     "productsQuantitys": [
         {
